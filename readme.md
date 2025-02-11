@@ -1,4 +1,4 @@
-# UserMint
+# UserMint:A Tool for One-Click Generation of Realistic User Information and Avatars
 
 ![UserMint GUI](./assets/screenshot.png)
 
