@@ -4,6 +4,12 @@
 
 **UserMint** is a tool for quickly generating realistic online user information. It supports batch generation of user details such as names, genders, birthdays, cities, emails, and phone numbers, along with random user avatars. Additionally, by integrating the GPT API, it can generate personalized user bios.
 
+![UserMint GUI_1](./assets/1.gif)
+
+![UserMint GUI_2](./assets/2.gif)
+
+![UserMint GUI_3](./assets/3.gif)
+
 ## Features
 - **One-Click Generation**: Quickly generate complete user information, including names, genders, birthdays, cities, emails, and phone numbers.
 - **Realistic Avatars**: Provide randomly generated realistic avatars to enhance the credibility of user information.
